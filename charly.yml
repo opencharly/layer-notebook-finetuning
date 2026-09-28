@@ -1,7 +1,5 @@
-version: 2026.232.0520
 notebook-finetuning:
     candy:
-        version: 2026.144.1443
         description: |
             Unsloth fine-tuning notebook collection
             Provisions Unsloth fine-tuning notebooks into the workspace

@@ -57,7 +57,6 @@ charly start unsloth-studio
 
 - Owning skill: `/charly-jupyter:notebook-finetuning` — the collection, its
   contents, and the `data:`/`dest:` provisioning.
-- `/charly-jupyter:unsloth-studio` — the box that owns the workspace volume.
 - `/charly-jupyter:notebook-templates` — sibling data candy.
 - `/charly-image:layer` — candy authoring reference.
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder

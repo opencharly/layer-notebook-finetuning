@@ -88,9 +88,6 @@ The notebooks include several workarounds for upstream library changes:
 - **`max_memory={0: "14GB"}` in model loading** (3 Pixtral-12B notebooks) -- Fixes accelerate device_map estimation for Pixtral-12B models that would otherwise OOM
 - **`max_prompt_length` removed from DPOConfig** (2 DPO notebooks) -- Parameter deprecated and removed in TRL 1.0
 
-## Used In Boxes
-
-
 ## Related Skills
 
 - `/charly-image:layer` -- data field documentation and candy authoring rules

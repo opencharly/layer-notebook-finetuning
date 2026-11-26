@@ -90,17 +90,12 @@ The notebooks include several workarounds for upstream library changes:
 
 ## Used In Boxes
 
-- `/charly-jupyter:unsloth-studio`
-- `/charly-jupyter:jupyter-ml-notebook`
 
 ## Related Skills
 
 - `/charly-image:layer` -- data field documentation and candy authoring rules
 - `/charly-core:charly-config` -- data provisioning during `charly config` setup
 - `/charly-core:deploy` -- volume backing configuration (bind, named, encrypted)
-- `/charly-jupyter:unsloth-studio` -- the Tier 2 meta-layer that owns the workspace volume
-- `/charly-jupyter:notebook-templates` -- sibling data candy pattern (starter notebooks for jupyter)
-- `/charly-jupyter:unsloth-studio` -- the box that includes this candy
 
 ## When to Use This Skill
 
